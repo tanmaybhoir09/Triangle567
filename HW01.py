@@ -1,8 +1,7 @@
 """
 @author: Tanmay Bhoir
 
-Python script to classify triangles and test cases for checking
-if the function works properly and doesn't throw any errors. 
+Python script to classify triangles and test cases for checking if the function works properly and doesn't throw any errors. 
 
 """
 
